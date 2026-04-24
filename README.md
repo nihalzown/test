@@ -24,6 +24,3 @@ Here is a quick reference for some of the most common Git commands:
 - `git fetch`: Download changes from the remote repository without merging them.
 - `git remote -v`: List the current remote repositories.
 
-### History and Examination
-- `git log`: View the commit history.
-- `git diff`: Show changes between your working tree and the index (staged area).
